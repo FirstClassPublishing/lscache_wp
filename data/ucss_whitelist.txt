@@ -8,3 +8,6 @@
 
 ############# DIVI ################
 .et_pb_number_counter.active
+
+############ Complete guide how to generate whitelist for ANY website ################
+https://wpspeeddoctor.com/online-tools/litespeed-ucss-helper/
